@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">A passionate CS student from Türkiye</h3>
+
 
 - 🔭 I’m currently working on **Angular**
 

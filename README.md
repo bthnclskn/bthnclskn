@@ -16,9 +16,8 @@ I'm a passionate software developer from Ankara, Turkey. Specializing in Angular
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bthnclskn&layout=compact&theme=radical)
 
 ## 📫 How to reach me
-- [Email](mailto:batuhan@example.com)
-- [LinkedIn](https://www.linkedin.com/in/batuhan-caliskan/)
-- [Twitter](https://twitter.com/batuhan)
+- [Email](mailto:batuhanclskn11@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/batuhan-clskn/)
 
 ## 📚 Recent Activities
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bthnclskn&theme=react-dark&hide_border=true)

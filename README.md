@@ -1,13 +1,45 @@
-<h1 align="center">Hi 👋, I'm Batuhan</h1>
+# Hi there, I'm Batuhan Çalışkan 👋
 
+![Profile Banner](https://your-image-link.com)
 
-- 🔭 I’m currently working on **Angular**
+## 🚀 About Me
+I'm a passionate software developer from Ankara, Turkey. Specializing in Angular, .NET, and front-end technologies, I create dynamic, sleek, and user-friendly web applications. My code is clean, my solutions are innovative, and I'm always on the lookout for new challenges and learning opportunities.
 
-- 📫 How to reach me **batuhanclskn11@gmail.com**
+## 🛠️ Skills
+- **Languages:** JavaScript, TypeScript, C#
+- **Frameworks:** Angular, .NET
+- **Tools:** Git, Docker, Jenkins
+- **Cloud:** AWS, Azure
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 📈 GitHub Stats
+![Batuhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bthnclskn&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bthnclskn&layout=compact&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📫 How to reach me
+- [Email](mailto:batuhan@example.com)
+- [LinkedIn](https://www.linkedin.com/in/batuhan-caliskan/)
+- [Twitter](https://twitter.com/batuhan)
+
+## 📚 Recent Activities
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bthnclskn&theme=react-dark&hide_border=true)
+
+## 💬 Let's Connect
+I'm always open to new opportunities and collaborations. Feel free to connect with me!
+
+---
+
+## 🔧 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
+
+---
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=bthnclskn.bthnclskn)

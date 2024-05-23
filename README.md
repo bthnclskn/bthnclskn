@@ -1,6 +1,5 @@
 # Hi there, I'm Batuhan Çalışkan 👋
 
-![Profile Banner](https://your-image-link.com)
 
 ## 🚀 About Me
 I'm a passionate software developer from Ankara, Turkey. Specializing in Angular, .NET, and front-end technologies, I create dynamic, sleek, and user-friendly web applications. My code is clean, my solutions are innovative, and I'm always on the lookout for new challenges and learning opportunities.
@@ -41,4 +40,4 @@ I'm always open to new opportunities and collaborations. Feel free to connect wi
 
 ---
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=bthnclskn.bthnclskn)
+

@@ -16,10 +16,8 @@ I'm a passionate software developer from Ankara, Turkey. Specializing in Angular
 
 ## 📫 How to reach me
 - [Email](mailto:batuhanclskn11@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/batuhan-clskn/)
+- [LinkedIn](https://www.linkedin.com/in/batuhanclskn/)
 
-## 📚 Recent Activities
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bthnclskn&theme=react-dark&hide_border=true)
 
 ## 💬 Let's Connect
 I'm always open to new opportunities and collaborations. Feel free to connect with me!
